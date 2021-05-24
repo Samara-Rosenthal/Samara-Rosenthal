@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Samara-Rosenthal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming language, front-end, android/mobile.
+- 🌱 I’m currently learning HTML.
+- 💞️ I’m looking to collaborate on front-end.
+- 📫 How to reach me e-mail samaramachadorosenthal@gmail.com
+
 
 <!---
 Samara-Rosenthal/Samara-Rosenthal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
