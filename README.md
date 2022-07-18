@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samara-Rosenthal
 - 👀 I’m interested in programming language, front-end, android/mobile.
-- 🌱 I’m currently learning Java - Python.
+- 🌱 I’m currently learning Java - Python - SI
 - 💞️ My LinkedIn https://www.linkedin.com/in/samara-rosenthal-b39b36156
 - 📫 How to reach me e-mail samaramachadorosenthal@gmail.com
 
