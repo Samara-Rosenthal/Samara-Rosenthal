@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samara-Rosenthal
-- 👀 I’m interested in programming language, front-end, android/mobile.
-- 🌱 I’m currently learning Java - Python - SGI
+- 👀 I’m interested in Security+, Python and CyberSecurity.
+- 🌱 I’m currently learning Python - CyberSecurity
 - 💞️ My LinkedIn https://www.linkedin.com/in/samara-rosenthal-b39b36156
-- 📫 How to reach me e-mail samaramachadorosenthal@gmail.com
+- 📫 How to reach me e-mail samararosenthal.nz@outlook.com
 
 
 <!---
